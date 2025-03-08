@@ -40,7 +40,7 @@
 
 	/**
 	 * Note: Use secrets to store sensitive data.
-	 * https://developers.cloudflare.com/workers/configuration/secrets/
+	 * https://developers.cloudflare.com/workers/configuration/secrets/ a
 	 */
 	// "secrets": ["API_SECRET_KEY"],
 
