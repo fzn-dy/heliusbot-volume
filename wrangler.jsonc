@@ -32,7 +32,7 @@
 	 * https://developers.cloudflare.com/workers/wrangler/configuration/#environment-variables
 	 */
 	"vars": {
-		"HELIUS_API_KEY": "b4c3f5df-ccbe-4867-9fc7-0e2d0c23c052",
+		"HELIUS_API_KEY": "25b68449-5452-4b57-81dc-4fdbf4f5068a",
 		"TELEGRAM_BOT_TOKEN": "7596254562:AAEPkupgmfaTCtQTHewZ31IPCn_fW2pR2pA",
 		"TELEGRAM_CHAT_ID": "1103242028",
 		"AUTH_TOKEN": "0NH7g19h11qTSTW5mZ5+NV2Kc3sUN4qvqzlhKP0UTRE="
