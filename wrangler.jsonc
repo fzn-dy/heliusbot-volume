@@ -16,6 +16,7 @@
 	 * Docs: https://developers.cloudflare.com/workers/configuration/smart-placement/#smart-placement
 	 */
 	// "placement": { "mode": "smart" },
+	"triggers": { "crons": ["*/5 * * * *"] },
 
 	/**
 	 * Bindings
@@ -36,6 +37,15 @@
 		"TELEGRAM_BOT_TOKEN": "7596254562:AAEPkupgmfaTCtQTHewZ31IPCn_fW2pR2pA",
 		"TELEGRAM_CHAT_ID": "1103242028",
 		"AUTH_TOKEN": "0NH7g19h11qTSTW5mZ5+NV2Kc3sUN4qvqzlhKP0UTRE="
+		"BINANCE_KEY": "",
+		"BINANCE_SECRET": "",
+		"CMC_API_KEY": "b26dcf8e-0c0a-451f-8e3e-465ea2a3aac8",
+		"TELEGRAM_BOT_TOKEN": "",
+		"TELEGRAM_CHAT_ID": "",
+		"TELEGRAM_CHANNEL_ID": "@usernametele",
+		"MORALIS_API_KEY": "",
+		"DEX_PAPRIKA_API": "https://api.dexpaprika.com/networks/solana/tokens/"
+
 	},
 
 	/**
